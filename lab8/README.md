@@ -1,7 +1,7 @@
 
 * *Date Created*: 15 11 2024
 * *Last Modification Date*: 15 11 2024
-* *Lab URL*: https://github.com/kboonyapakorn123/lab8_CSCI3172.git
+* *Lab URL*: https://github.com/kboonyapakorn123/lab8.git
 
 * *GIT URL*: https://lab8-netlify.netlify.app/
 
